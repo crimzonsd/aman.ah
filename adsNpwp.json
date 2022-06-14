@@ -1,0 +1,14 @@
+[
+    {
+      "mode" : "1",
+      "apps" : "Dog Sounds",
+      "sdk_key" : "",
+      "appidadmob" : "ca-app-pub-3940256099942544~3347511713",
+      "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+      "openadmob" : "ca-app-pub-3940256099942544/3419835294",
+      "bannerapplovin" : "",
+      "interapplovin" : "",
+      "interUnity" : "Interstitial_Android",
+      "bannerUnity" : "Banner_Android"
+    }
+]
