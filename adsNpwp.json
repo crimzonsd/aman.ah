@@ -1,11 +1,11 @@
 [
     {
       "mode" : "1",
-      "apps" : "Dog Sounds",
+      "apps" : "Cara Daftar NPWP Online",
       "sdk_key" : "",
-      "appidadmob" : "ca-app-pub-3940256099942544~3347511713",
-      "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
-      "openadmob" : "ca-app-pub-3940256099942544/3419835294",
+      "appidadmob" : "ca-app-pub-6927489174302307~2827665085",
+      "banneradmob" : "ca-app-pub-6927489174302307/3324183016",
+      "openadmob" : "ca-app-pub-6927489174302307/5567202979",
       "bannerapplovin" : "",
       "interapplovin" : "",
       "interUnity" : "Interstitial_Android",
