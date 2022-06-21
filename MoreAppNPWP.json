@@ -1,0 +1,27 @@
+[
+      {
+    		"nama_apps" :"Cara Daftar Kartu Prakerja",
+    		"img_url" : "https://iili.io/hiBZ6F.jpg",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=Amanah+Project"
+    	},
+      {
+    		"nama_apps" :"Cara Daftar NPWP Online",
+    		"img_url" : "https://iili.io/hiBbaa.png",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=Amanah+Project"
+    	},
+    	{
+    		"nama_apps" :"Suara Tokek",
+    		"img_url" : "https://iili.io/hiBLCP.jpg",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=Amanah+Project"
+    	},
+	    {
+    		"nama_apps" :"Suara Nyamuk",
+    		"img_url" : "https://iili.io/hiBPjV.jpg",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=Amanah+Project"
+    	},
+	    {
+    		"nama_apps" :"Dog Sounds",
+    		"img_url" : "https://iili.io/hiBgvj.png",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=Amanah+Project"
+    	}
+	]
