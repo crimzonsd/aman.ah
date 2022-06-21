@@ -1,14 +1,8 @@
 [
     {
-      "mode" : "1",
       "apps" : "Cara Daftar NPWP Online",
-      "sdk_key" : "",
       "appidadmob" : "ca-app-pub-6927489174302307~2827665085",
       "banneradmob" : "ca-app-pub-6927489174302307/3324183016",
-      "openadmob" : "ca-app-pub-6927489174302307/5567202979",
-      "bannerapplovin" : "",
-      "interapplovin" : "",
-      "interUnity" : "Interstitial_Android",
-      "bannerUnity" : "Banner_Android"
+      "openadmob" : "ca-app-pub-6927489174302307/5567202979"
     }
 ]
