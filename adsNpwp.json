@@ -1,7 +1,7 @@
 [
     {
       "limitads" : "20",
-      "limittimer" : "5",
+      "limittimer" : "500",
       "moreapp" : "false",
       "mode" : "1",
       "apps" : "Cara Daftar NPWP Online",
