@@ -3,7 +3,7 @@
       "limitads" : "200",
       "limittimer" : "5",
       "moreapp" : "false",
-      "mode" : "0",
+      "mode" : "3",
       "apps" : "Cara Daftar NPWP Online",
       "appidadmob" : "ca-app-pub-6927489174302307~2827665085",
       "banneradmob" : "ca-app-pub-6927489174302307/3324183016",
@@ -14,7 +14,7 @@
       "merc" : "20fed7e0becfaac0",
       "reward" : "db45cf017d71910d",
       "rwdCount" : "4",
-      "startiotest" :"true",
+      "startiotest" :"false",
       "limit" :"true"
         
     }
