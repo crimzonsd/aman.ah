@@ -18,8 +18,6 @@
       "limit" :"true"
     },
     {
-      "limitads" : "20000",
-      "limittimer" : "5",
       "moreapp" : "false",
       "mode" : "1",
       "apps" : "Suara Tokek",
