@@ -19,8 +19,8 @@
     },
     {
       "moreapp" : "true",
-      "mode" : "3",
-      "apps" : "Suara Tokek",
+      "mode" : "0",
+      "apps" : "Gecko Sounds",
       "appidadmob" : "ca-app-pub-6927489174302307~2579537125",
       "banneradmob" : "ca-app-pub-6927489174302307/5377970403",
       "interadmob" : "ca-app-pub-6927489174302307/6187106300",  
@@ -54,7 +54,7 @@
     {
       "moreapp" : "true",
       "mode" : "0",
-      "apps" : "Suara Nyamuk",
+      "apps" : "Mosquito Sounds",
       "appidadmob" : "ca-app-pub-6927489174302307~3769222064",
       "banneradmob" : "ca-app-pub-6927489174302307/2056289608",
       "interadmob" : "ca-app-pub-6927489174302307/1985520305",  
