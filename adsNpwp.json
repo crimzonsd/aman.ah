@@ -50,5 +50,21 @@
       "rwdCount" : "5",
       "startiotest" :"false",
       "limit" :"true"
+    },
+    {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Suara Nyamuk",
+      "appidadmob" : "ca-app-pub-6927489174302307~3769222064",
+      "banneradmob" : "ca-app-pub-6927489174302307/2056289608",
+      "interadmob" : "ca-app-pub-6927489174302307/1985520305",  
+      "openadmob" : "ca-app-pub-6927489174302307/8238554572",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "cc60753dd8b2a37c",
+      "interapp" : "45659711567d1b66",  
+      "merc" : "3c1c10ab3d8653e9",
+      "reward" : "0d57a3838b1e6ed6",
+      "rwdCount" : "5",
+      "limit" : "true"
     }
 ]
