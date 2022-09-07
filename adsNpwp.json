@@ -31,7 +31,8 @@
       "merc" : "05fe47f55eced1f5",
       "reward" : "501d0028004cc4ab",
       "rwdCount" : "5",
-      "limit" : "true"
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/amanahpro/MoreAppNPWP.json"
     },
     {
       "limitads" : "20000",
@@ -65,6 +66,7 @@
       "merc" : "3c1c10ab3d8653e9",
       "reward" : "0d57a3838b1e6ed6",
       "rwdCount" : "5",
-      "limit" : "true"
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/amanahpro/MoreAppNPWP.json"
     }
 ]
