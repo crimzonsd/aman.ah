@@ -68,5 +68,22 @@
       "rwdCount" : "5",
       "limit" : "true",
       "url" : "https://crimzonsd.github.io/amanahpro/MoreAppNPWP.json"
+    },
+    {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Dog Sounds",
+      "appidadmob" : "ca-app-pub-6927489174302307~3258204957",
+      "banneradmob" : "ca-app-pub-6927489174302307/4379714932",
+      "interadmob" : "ca-app-pub-6927489174302307/6814306588",  
+      "openadmob" : "ca-app-pub-6927489174302307/2875061577",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "ca78c13f309986d2",
+      "interapp" : "addcf85945aa5be2",  
+      "merc" : "0669ef4091bb8212",
+      "reward" : "dac51760d2279ff4",
+      "rwdCount" : "5",
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     }
 ]
